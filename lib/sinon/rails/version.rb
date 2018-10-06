@@ -1,5 +1,5 @@
 module Sinon
   module Rails
-    VERSION = "1.15.0"
+    VERSION = "6.3.4"
   end
 end
